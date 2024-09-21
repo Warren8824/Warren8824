@@ -4,6 +4,38 @@
 
 Hello! I'm Warren, a passionate developer on a journey to derive meaningful insights from data analysis. Welcome to my GitHub profile!
 
+## Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-Orange?logo=jupyter)  
+![Pip](https://img.shields.io/badge/pip-Used_Regularly-yellow)  
+
+## Machine Learning & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Experience_Using-orange)  
+![Keras](https://img.shields.io/badge/Keras-Used_in_Projects-red)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Basic_Knowledge-green)  
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis_Tool-lightgrey)  
+![NumPy](https://img.shields.io/badge/Numpy-Mathematics_Tool-blue)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-brightgreen)  
+
+## Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)  
+![GitHub](https://img.shields.io/badge/GitHub-Projects_on_GitHub-blue)  
+
+## DevOps & CI/CD (Future Skills)
+
+![Docker](https://img.shields.io/badge/Docker-Learning-yellowgreen)  
+
+## Testing
+
+![Unittest](https://img.shields.io/badge/Unittest-Beginner-lightblue)  
+
+## Documentation & Markdown
+
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-red) 
+
 ### 🚀 About Me
 
 - 🐍 Proficient in Python, with a focus on data analysis libraries like pandas and matplotlib
