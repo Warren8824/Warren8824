@@ -45,7 +45,7 @@ Hello! I'm Warren, a passionate developer on a journey to derive meaningful insi
 
 ### 🔭 Current Project
 
-I'm currently working on **XRP-Insight**, my first major open-source project. It's an exciting venture into the world of cryptocurrency data analysis. Stay tuned for updates!
+I'm currently working on [**XRP-Insight**](https://github.com/Warren8824/XRP-Insight), my first major open-source project. It's an exciting venture into the world of cryptocurrency data analysis. Stay tuned for updates!
 
 ### 🌱 Learning & Growth
 
