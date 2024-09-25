@@ -38,10 +38,10 @@ Hello! I'm Warren, a passionate developer on a journey to create innovative solu
 
 ### 🚀 About Me
 
-- 🐍 Proficient in Python, with a focus on data analysis libraries like pandas and matplotlib
 - 📊 Experienced in working with Jupyter Notebooks for interactive data exploration
-- 🩺 Keen interest in the intersection of technology and health, particularly in diabetes management innovations
+- 🐍 Proficient in Python, with a focus on data analysis libraries like pandas and matplotlib
 - 🚗 Background in the motor and transport trade, bringing a unique perspective to my tech projects
+- 🩺 Keen interest in the intersection of technology and health, particularly in diabetes management innovations
 
 ### 🚀 Current Projects
 
