@@ -1,8 +1,8 @@
 👋 Hi, I’m **@Warren8824**
 
-## 👨‍💻 Aspiring Data Analyst | Python Enthusiast | Health Tech Innovator
+👨‍💻 Aspiring Developer | Cryptocurrency Enthusiast | Health Tech Visionary
 
-Hello! I'm Warren, a passionate developer on a journey to derive meaningful insights from data analysis. Welcome to my GitHub profile!
+Hello! I'm Warren, a passionate developer on a journey to create innovative solutions in the cryptocurrency and health tech spaces. Welcome to my GitHub profile!
 
 ## Languages & Tools
 
@@ -43,31 +43,54 @@ Hello! I'm Warren, a passionate developer on a journey to derive meaningful insi
 - 🩺 Keen interest in the intersection of technology and health, particularly in diabetes management innovations
 - 🚗 Background in the motor and transport trade, bringing a unique perspective to my tech projects
 
-### 🔭 Current Project
+### 🚀 Current Projects
 
-I'm currently working on [**XRP-Insight**](https://github.com/Warren8824/XRP-Insight), my first major open-source project. It's an exciting venture into the world of cryptocurrency data analysis. Stay tuned for updates!
+### *XRP-Insight*
 
-### 🌱 Learning & Growth
+My first major open-source project, focusing on cryptocurrency data analysis. This project combines my interests in programming and the crypto market.
 
-As a Type 1 diabetic using a Libre 2 CGM, I'm gearing up to dive into CGM data analysis. This personal project combines my passion for health tech with my data analysis skills.
+### *CGM Data Analysis*
 
-### 👥 Collaboration
+As a Type 1 diabetic using a Libre 2 CGM, I'm working on an in-depth analysis of my CGM data using Jupyter Notebooks. This personal project merges my health management with data analysis skills.
 
-I'm open to collaboration opportunities, especially in areas related to:
-- Cryptocurrency data analysis
-- Health tech innovations
-- Data visualization projects
+### *Cryptocurrency Price Tracker*
 
-If you have ideas or projects in these areas, let's connect!
+A simple app to track cryptocurrency prices in real-time, utilizing public APIs. This project helps me practice API interactions and data handling.
 
-### 🎯 Goals
+### 🛠 Skills & Tools
 
-My primary goal is to become proficient enough in data analysis and coding to transition into a professional role. I'm excited about the opportunities in this field and always eager to learn more.
+- Languages: Python (Primary focus)
+- Data Analysis: Pandas, NumPy, Matplotlib, Plotly
+- Development: Jupyter Notebooks, Git, GitHub
+- APIs: Experience with cryptocurrency data APIs
 
-### 📫 Get in Touch
+### 📚 Learning Journey
 
-While I'm not very active on social media, you can reach out to me here on GitHub. I'm always happy to discuss potential collaborations or just chat about exciting developments in tech!
+- Completed Udacity's Intro to Python course
+- Currently enhancing my statistical knowledge through online courses
+- Exploring machine learning concepts and their applications in crypto and health tech
+- Continuously improving my data visualization skills with Matplotlib and Plotly
+
+### 🎯 Future Goals
+
+- Develop a haptic feedback band for glucose level monitoring
+- Contribute to open-source projects in the cryptocurrency space
+- Expand my knowledge of blockchain technology and its applications
+- Explore cloud platforms for data analysis and app deployment
+
+### 🌱 Interests
+
+- Cryptocurrency market analysis and trading
+- Innovations in diabetes management and health tech
+- Data-driven solutions for real-world problems
+- Nutrition and its impact on health
+
+### 🤝 Let's Connect
+
+I'm always open to collaboration, especially on projects related to cryptocurrency analysis or health tech innovations. Feel free to reach out if you have ideas or just want to chat about the exciting developments in these fields!
 
 ---
 
 *"Every day is a learning opportunity, and every dataset tells a story. I'm here to uncover those stories!"*
+
+*"Every line of code is a step towards innovation. Join me on this journey of continuous learning and creation!"*
