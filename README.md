@@ -1,51 +1,46 @@
-# Warren | Learning Healthcare Tech for T1D
+# Warren Bebbington
+Building practical healthcare data tools while learning software development | Type 1 Diabetic
+
 ## About Me
-🩺 Type 1 Diabetic for 18 years, learning to use technology to understand my diabetes data  
-💡 Beginning my journey into programming with a focus on diabetes management  
-🌱 Self-teaching programming while applying my healthcare experience
-🔬 Learning to build open-source tools for personal diabetes care
+With 18 years of Type 1 Diabetes experience, I'm learning software development to address practical healthcare data challenges. My focus is on understanding and organizing continuous glucose monitoring (CGM) data, drawing from my extensive experience as a patient using these systems.
 
-## Current Learning Project
-Learning programming through a practical diabetes project:
-- 📊 Learning to work with CGM data files
-- 🔍 Understanding different data formats
-- 📈 Exploring basic data organization
-- 🌱 Beginning to work with xDrip+ data
+## Current Project
+**CGM Data Processing System** (Learning Project)
+- Developing a system to organize and standardize CGM data from multiple devices
+- Learning to implement proper file organization and data structures
+- Working with SQLite databases and CSV exports
+- Creating documentation for future expansion
 
-## Project Goals
-**CGM Data Processing Project (In Early Development)**
-- Learning to read CGM data from Libre 2 + xDrip+
-- Creating organized file storage for different data types
-- Understanding basic data structures
-- Learning through real-world application
-
-## Learning Progress
+## Technical Learning
+Currently developing skills in:
 ![Python](https://img.shields.io/badge/Python-Learning-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-Learning-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Actively_Using-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Learning_&_Using-lightblue)
+![MkDocs](https://img.shields.io/badge/MkDocs-Learning-green)
+![Pytest](https://img.shields.io/badge/Pytest-Beginning-red)
+![Git](https://img.shields.io/badge/Git-Learning-lightgrey)
 
 ## Healthcare Experience
-- 18 years personal T1D management experience
-- Practical experience with CGM/xDrip+ as a user
-- Understanding of diabetes management from patient perspective
+- Extensive personal experience managing Type 1 Diabetes
+- Practical understanding of CGM systems and data collection
+- Real-world insight into diabetes management challenges
+- Experience with xDrip+ and Libre 2 systems
 
-## Current Learning Focus
-📚 **Technical Learning**
-- Basic Python programming
-- Understanding data files and formats
-- Learning about databases
-- Introduction to Statistics (Udacity)
+## Project Goals
+- Create reliable data organization systems for CGM data
+- Develop consistent file formatting for long-term data storage
+- Implement proper documentation and testing practices
+- Build foundation for future analysis capabilities
 
-## About My Journey
-> "Learning to understand my diabetes data through programming"
+## Current Focus
+- Learning software development best practices
+- Understanding healthcare data structures
+- Implementing systematic testing approaches
+- Developing technical documentation skills
 
-## Connect With Me
-I'm a T1D patient learning programming to better understand diabetes management. If you're interested in:
-- 🌱 Beginning programming for healthcare
-- 📊 Learning about diabetes data
-- 💡 T1D management
-- 🤝 Open source learning
-
-Feel free to reach out - always happy to connect with others on similar learning journeys!
+## Contact
+I'm interested in connecting with others working on healthcare data projects or learning software development. My perspective comes from practical experience with diabetes management and a methodical approach to learning technical skills.
 
 ---
-*"From patient to beginner developer: Learning through real diabetes management challenges"*
+*Combining healthcare experience with emerging technical skills to solve practical data challenges*
