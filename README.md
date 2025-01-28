@@ -18,7 +18,7 @@ Currently developing skills in:
 ![SQLite](https://img.shields.io/badge/SQLite-Learning-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Actively_Using-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Learning_&_Using-lightblue)
-![MkDocs](https://img.shields.io/badge/MkDocs-Learning-green)
+![MkDocs](https://img.shields.io/badge/MkDocs-Learning_&_Using-lightblue)
 ![Pytest](https://img.shields.io/badge/Pytest-Beginning-red)
 ![Git](https://img.shields.io/badge/Git-Learning-lightgrey)
 
