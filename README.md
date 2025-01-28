@@ -5,7 +5,7 @@ Building practical healthcare data tools while learning software development | T
 With 18 years of Type 1 Diabetes experience, I'm learning software development to address practical healthcare data challenges. My focus is on understanding and organizing continuous glucose monitoring (CGM) data, drawing from my extensive experience as a patient using these systems.
 
 ## Current Project
-**CGM Data Processing System** (Learning Project)
+**[CGM Data Processing System](https://github.com/Warren8824/cgm-data-processor)** (Learning Project)
 - Developing a system to organize and standardize CGM data from multiple devices
 - Learning to implement proper file organization and data structures
 - Working with SQLite databases and CSV exports
