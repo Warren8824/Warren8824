@@ -13,6 +13,7 @@ With 18 years of Type 1 Diabetes experience, I'm learning software development t
 
 ## Technical Learning
 Currently developing skills in:
+
 ![Python](https://img.shields.io/badge/Python-Learning-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-Learning-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Actively_Using-orange)
