@@ -6,7 +6,7 @@ I’m building real-world skills through personal projects, a career in IT suppo
 
 ## 🛠️ Current Projects
 
-### [**Riverside Lab**](https://github.com/Warren8824/riverside-lab)  
+### [**Riverside Lab**](https://github.com/Warren8824/RiversideHomeLab)  
 **Windows Server 2025 Homelab** – Active Directory, DHCP/DNS, RRAS, GPOs  
 > A fully-documented, multi-site enterprise-style lab built in Hyper-V.
 
