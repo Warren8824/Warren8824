@@ -71,8 +71,7 @@ I’m currently growing in these areas:
 - Building a strong foundation in infrastructure and systems administration  
 - Self-taught and driven by curiosity and consistency  
 - Type 1 Diabetic — 18+ years of managing and understanding CGM systems  
-- Exploring how to turn real-world experience into meaningful software solutions  
-- Dreaming of eventual remote work, mobile living, and contributing to open source
+- Exploring how to turn real-world experience into meaningful software solutions
 
 ---
 
