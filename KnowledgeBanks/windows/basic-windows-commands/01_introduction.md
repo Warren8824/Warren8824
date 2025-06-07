@@ -9,7 +9,7 @@
 - Windows 10/11 Enterprise: Volume licensing, advanced management
 
 **Server Versions**:
-- Windows Server 2022: Stable enterprise server - support end October 13, 2026
+- Windows Server 2022: Stable enterprise server - support ends October 13, 2026
 - Windows Server 2025: Latest server version
 - Windows Server Core: Command-line only, smaller footprint
 
