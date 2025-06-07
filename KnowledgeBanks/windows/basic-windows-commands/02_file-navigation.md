@@ -5,7 +5,9 @@
 The `dir` command displays a list of files and subdirectories within a specified directory. It can be used with or without parameters to customize the output, such as showing hidden files, sorting by date, or displaying information in wide format.
 
 ![dir function CMD](assets/dir_cmd.png)
-![dir function PowerShell](assets/dir.png)
+*CMD - `dir` screenshot*
+![dir function PowerShell](assets/dir_PowerShell.png)
+*PowerShell - `dir` scrrenshot*
 
 ### Using parameters:
 
