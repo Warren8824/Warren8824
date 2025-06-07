@@ -20,7 +20,7 @@ You can use various parameters with the dir command to modify its behavior, such
   
   ![dir /a function CMD](assets/dir-a_cmd.png)
 
-  *CMD - `dir /a` command*
+  *CMD - `dir /a` command, showing an extra previously hidden file - hiddent_text_document.txt*
 
 - `/s` to recursively list files and directories in subdirectories. 
 - `/w` to display the results in a wide format. 
