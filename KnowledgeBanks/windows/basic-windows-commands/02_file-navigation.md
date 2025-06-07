@@ -6,6 +6,7 @@ The `dir` command displays a list of files and subdirectories within a specified
 
 ![dir function CMD](assets/dir_cmd.png)
 *CMD - `dir` screenshot*
+
 ![dir function PowerShell](assets/dir_PowerShell.png)
 *PowerShell - `dir` scrrenshot*
 
