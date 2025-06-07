@@ -12,3 +12,4 @@ Bash scripts are text files containing a sequence of commands that can be execut
 
 ### System Administration:
 Bash is widely used for system administration tasks, including user management, service configuration, and system maintenance. 
+
