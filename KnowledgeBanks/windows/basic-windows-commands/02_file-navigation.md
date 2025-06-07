@@ -6,7 +6,7 @@ The `dir` command displays a list of files and subdirectories within a specified
 
 ![dir function CMD](assets/dir_cmd.png)
 
-*CMD - `dir` screenshot*
+*CMD - `dir` screenshot showing contents of C:\Demo*
 
 ![dir function PowerShell](assets/dir_PowerShell.png)
 
@@ -29,7 +29,12 @@ You can use various parameters with the dir command to modify its behavior in CM
   *CMD - `dir /s` command, showing all directories and subdirectories.*
 
 
-- `/w` to display the results in a wide format. 
+- `/w` to display the results in a wide format.
+  
+  ![dir /w function CMD](assets/dir-w_cmd.png)
+
+  *CMD - `dir /s` command, showing all contents of C:\Demo in a wide format for better readability.*
+
 - `/t` to sort the results by time. 
 - `/x` to display the short names of long file names. 
 - `/r` to show alternate data streams (ADS).
