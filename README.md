@@ -16,7 +16,7 @@ I’m building real-world skills through personal projects, a career in IT suppo
 - Ideal playground to reinforce helpdesk knowledge with practical experience  
 - Designed to grow with my learning — security, onboarding, and monitoring planned
 
-![Lab Graphic](https://github.com/Warren8824/RiversideHomeLab/blob/main/documentation%2Fimages%2FDC01.png)
+![Lab Graphic](https://github.com/Warren8824/RiversideHomeLab/blob/main/01-infrastucture/images/DC01.png)
 
 ### [**CGM Data Processor**](https://github.com/Warren8824/cgm-data-processor)  
 **Personal Healthcare Data Tool** – Python, Pandas, SQLite  
