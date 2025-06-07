@@ -1,2 +1,2 @@
-# Basics Linux Commands
-This deocument is to solidify my current knowledge and for future reference if skills get rusty.
+# Basics Linux Commands - Bash
+This is a reference document created to solidy my current knowledge and for possible future reference if skills get rusty.
