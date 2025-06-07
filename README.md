@@ -27,6 +27,8 @@ I’m building real-world skills through personal projects, a career in IT suppo
 - Aimed at standardising long-term CGM records for future analysis  
 - Still early-stage — paused while I focus on infrastructure learning
 
+![Doc Site](https://github.com/Warren8824/cgm-data-processor/blob/main/site/assets/images/doc-site.png)
+
 ---
 
 ## 🧠 Learning & Development
