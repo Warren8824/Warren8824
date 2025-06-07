@@ -33,7 +33,7 @@ You can use various parameters with the dir command to modify its behavior in CM
   
   ![dir /w function CMD](assets/dir-w_cmd.png)
 
-  *CMD - `dir /s` command, showing all contents of C:\Demo in a wide format for better readability.*
+  *CMD - `dir /w` command, showing all contents of C:\Demo in a wide format for better readability.*
 
 - `/t` to sort the results by time. 
 - `/x` to display the short names of long file names. 
