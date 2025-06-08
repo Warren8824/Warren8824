@@ -57,10 +57,14 @@ In Windows, the `cd` command (or `chdir`) is used to change the current director
 
 *Here's how it works:*
 
-`cd` (without arguments): Displays the current drive and directory. 
-`cd [directory_path]`: Changes the current directory to the specified path. 
-`cd ..`: Moves one directory up in the file system hierarchy. 
-`cd [drive_letter]:`: Changes the current drive to the specified drive letter. 
+`cd` (without arguments): Displays the current drive and directory.
+
+`cd [directory_path]`: Changes the current directory to the specified path.
+ 
+`cd ..`: Moves one directory up in the file system hierarchy.
+
+`cd [drive_letter]:`: Changes the current drive to the specified drive letter.
+
 `cd /d [drive_letter]:[directory_path]`: Changes both the current drive and directory at the same time. 
 
 ## mkdir (md)
