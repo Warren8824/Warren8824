@@ -46,7 +46,7 @@ You can use various parameters with the dir command to modify its behavior in CM
   
   ![dir /x function CMD](assets/dir-x_cmd.png)
   
-  *CMD - `dir /t` command displaying short names of long file names* 
+  *CMD - `dir /x` command displaying short names of long file names* 
 
 - `/r` to show alternate data streams (ADS).
 
