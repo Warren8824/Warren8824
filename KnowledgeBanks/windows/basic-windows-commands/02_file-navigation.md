@@ -35,7 +35,13 @@ You can use various parameters with the dir command to modify its behavior in CM
 
   *CMD - `dir /w` command, showing all contents of C:\Demo in a wide format, sometimes required for better readability.*
 
-- `/t` to sort the results by time. 
+- `/t` to choose which time to sidplay from, last write time `/t:w` - default, creation time `/t:c`, or last access time `/t:a`.
+  
+  ![dir /t function CMD](assets/dir-t_cmd.png)
+  
+  *CMD - `dir /t` command, showing different time displays - we can add `/O:-D` to order the list by newest first, or `/O:D` to order oldest first* 
+
+
 - `/x` to display the short names of long file names. 
 - `/r` to show alternate data streams (ADS).
 
