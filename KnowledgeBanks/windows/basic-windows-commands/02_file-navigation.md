@@ -51,7 +51,17 @@ You can use various parameters with the dir command to modify its behavior in CM
 - `/r` to show alternate data streams (ADS).
 
 
-## cd
+# `cd`
+
+In Windows, the `cd` command (or `chdir`) is used to change the current directory or to display the current directory's path. It allows you to navigate through the file system in the command line.
+
+*Here's how it works:*
+
+`cd` (without arguments): Displays the current drive and directory. 
+`cd [directory_path]`: Changes the current directory to the specified path. 
+`cd ..`: Moves one directory up in the file system hierarchy. 
+`cd [drive_letter]:`: Changes the current drive to the specified drive letter. 
+`cd /d [drive_letter]:[directory_path]`: Changes both the current drive and directory at the same time. 
 
 ## mkdir (md)
 
