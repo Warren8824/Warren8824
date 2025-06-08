@@ -42,7 +42,12 @@ You can use various parameters with the dir command to modify its behavior in CM
   *CMD - `dir /t` command, showing different time displays - we can add `/O:-D` to order the list by newest first, or `/O:D` to order oldest first* 
 
 
-- `/x` to display the short names of long file names. 
+- `/x` to display the short names of long file names.
+  
+  ![dir /x function CMD](assets/dir-x_cmd.png)
+  
+  *CMD - `dir /t` command displaying short names of long file names* 
+
 - `/r` to show alternate data streams (ADS).
 
 
