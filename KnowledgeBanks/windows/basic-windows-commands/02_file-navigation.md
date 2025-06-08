@@ -26,7 +26,7 @@ You can use various parameters with the dir command to modify its behavior in CM
   
   ![dir /s function CMD](assets/dir-s_cmd.png)
 
-  *CMD - `dir /s` command, showing all directories and subdirectories.*
+  *CMD - `dir /s` command, showing contents of the directory and subdirectories.*
 
 
 - `/w` to display the results in a wide format.
