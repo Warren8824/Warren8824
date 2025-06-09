@@ -86,4 +86,6 @@ In Windows, the `cd` command (or `chdir`) is used to change the current director
 
 ## move
 
-## del 
+## del
+
+## rmdir
