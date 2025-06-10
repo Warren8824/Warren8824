@@ -96,4 +96,6 @@ _
 
 ## move
 
-## del 
+## del
+
+## rmdir
