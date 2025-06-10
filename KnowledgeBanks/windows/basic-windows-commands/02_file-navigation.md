@@ -90,12 +90,16 @@ _
 
 *CMD - `mkdir new_folder` command creating a new folder in the current directory*
 
-## ren
+This command can also be shortened to `md` and will function the same.
 
-## copy
+![mkdir new_folder function CMD](assets/md_cmd.png)
 
-## move
+# `ren`
 
-## del
+# `copy`
 
-## rmdir
+# `move`
+
+# `del`
+
+# `rmdir`
