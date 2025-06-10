@@ -78,7 +78,17 @@ In Windows, the `cd` command (or `chdir`) is used to change the current director
 
 ![cd C:\Demo function CMD](assets/cdCDemo_cmd.png)
 
-## mkdir (md)
+# `mkdir` (`md`)
+
+The mkdir() function creates a new, empty directory whose name is defined by path. The file permission bits in mode are modified by the file creation mask of the job and then used to set the file permission bits of the directory being created.
+
+eg mkdir [<drive>:]<path> - `mkdir D:\new_folder`
+
+`mkdir path`: Creates a new folder with the path as the folder name.
+_
+![mkdir new_folder function CMD](assets/mkdir_cmd.png)
+_
+*CMD - `mkdir new_folder` command creating a new folder in the current directory*
 
 ## ren
 
