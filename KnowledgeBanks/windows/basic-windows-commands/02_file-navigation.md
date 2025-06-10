@@ -87,7 +87,7 @@ eg mkdir [<drive>:]<path> - `mkdir D:\new_folder`
 `mkdir path`: Creates a new folder with the path as the folder name.
 _
 ![mkdir new_folder function CMD](assets/mkdir_cmd.png)
-_
+
 *CMD - `mkdir new_folder` command creating a new folder in the current directory*
 
 ## ren
