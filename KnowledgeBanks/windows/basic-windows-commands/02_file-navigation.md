@@ -73,6 +73,9 @@ In Windows, the `cd` command (or `chdir`) is used to change the current director
 
 ![cd D: function CMD](assets/cdD_cmd.png)
 
+`[drive_letter]:` : Simpler method to Change the current drive to the specified drive letter.
+
+![`D:`](assets/simplleDriveChange_cmd.png)
 
 `cd /d [drive_letter]:[directory_path]`: Changes both the current drive and directory at the same time.
 
