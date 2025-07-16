@@ -1,4 +1,4 @@
-**IT Support Engineer | Homelab Builder | Python Learner | Type 1 Diabetic**
+**Application Support and Access Analyst| Homelab Builder | Python Learner | Type 1 Diabetic**
 
 I’m building real-world skills through personal projects, a career in IT support, and an honest curiosity for how things work. Whether it’s automating Active Directory in PowerShell or processing my CGM data with Python, I learn by doing — and by documenting the journey for others like me.
 
@@ -69,10 +69,10 @@ I’m currently growing in these areas:
 
 ## 🌍 About Me
 
-- Currently working as an **IT Helpdesk Engineer** at a healthcare organisation  
+- Currently working as an **Application and Access Support Analyst** at a healthcare organisation  
 - Building a strong foundation in infrastructure and systems administration  
 - Self-taught and driven by curiosity and consistency  
-- Type 1 Diabetic — 18+ years of managing and understanding CGM systems  
+- Type 1 Diabetic — 18+ years of managing complications and understanding of CGM systems  
 - Exploring how to turn real-world experience into meaningful software solutions
 
 ---
