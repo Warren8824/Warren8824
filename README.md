@@ -1,4 +1,4 @@
-**Application Support and Access Analyst| Homelab Builder | Python Learner | Type 1 Diabetic**
+**Application Support and Access Analyst| Homelab Builder | Python Learner**
 
 I’m building real-world skills through personal projects, a career in IT support, and an honest curiosity for how things work. Whether it’s automating Active Directory in PowerShell or processing my CGM data with Python, I learn by doing — and by documenting the journey for others like me.
 
