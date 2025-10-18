@@ -61,9 +61,9 @@ I’m currently growing in these areas:
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-Practicing-blue)
 
-![Python](https://img.shields.io/badge/Python-Learning_&_Using-lightblue)
-
 ![SQLite](https://img.shields.io/badge/SQLite-Used_in_Project-lightblue)
+
+![Python](https://img.shields.io/badge/Python-Learning_&_Using-lightblue)
 
 ![Windows_Server](https://img.shields.io/badge/Windows_Server-2025_Lab-green)
 
