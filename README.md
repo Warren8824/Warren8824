@@ -60,10 +60,7 @@ I’m currently growing in these areas:
 ![Python](https://img.shields.io/badge/Python-Learning_&_Using-lightblue)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Practicing-blue)
 ![Windows_Server](https://img.shields.io/badge/Windows_Server-2025_Lab-green)
-![Git](https://img.shields.io/badge/Git-Active-orange)
-![SQLite](https://img.shields.io/badge/SQLite-Used_in_Project-lightblue)
-![MkDocs](https://img.shields.io/badge/MkDocs-Used_for_Documentation-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Occasional_Use-orange)
+![Git](https://img.shields.io/badge/Git-Active-orange)![SQLite](https://img.shields.io/badge/SQLite-Used_in_Project-lightblue)![MkDocs](https://img.shields.io/badge/MkDocs-Used_for_Documentation-blue)![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Occasional_Use-orange)
 
 ---
 
@@ -72,7 +69,7 @@ I’m currently growing in these areas:
 - Currently working as an **Application and Access Support Analyst** at a healthcare organisation  
 - Building a strong foundation in infrastructure and systems administration  
 - Self-taught and driven by curiosity and consistency  
-- Type 1 Diabetic — 18+ years of managing complications and understanding of CGM systems  
+- Type 1 Diabetic — 19+ years of managing complications and understanding of CGM systems  
 - Exploring how to turn real-world experience into meaningful software solutions
 
 ---
