@@ -57,13 +57,13 @@ I’m currently growing in these areas:
 
 ## 🏷️ Skill Badges
 
-![Python](https://img.shields.io/badge/Python-Learning_&_Using-lightblue)
+![Git](https://img.shields.io/badge/Git-Active-orange)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-Practicing-blue)
 
 ![Windows_Server](https://img.shields.io/badge/Windows_Server-2025_Lab-green)
 
-![Git](https://img.shields.io/badge/Git-Active-orange)
+![Python](https://img.shields.io/badge/Python-Learning_&_Using-lightblue)
 
 ![SQLite](https://img.shields.io/badge/SQLite-Used_in_Project-lightblue) 
 
