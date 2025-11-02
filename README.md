@@ -83,17 +83,4 @@ I’m currently growing in these areas:
 
 ---
 
-## 🤝 Let’s Connect
-
-I’m always up for connecting with:
-
-- Other self-taught or career-switching techies  
-- People working in enterprise IT, support, or sysadmin roles  
-- Healthcare professionals, devs, or researchers exploring diabetes data  
-- Mentors who like helping curious minds grow
-
-Reach out, star a repo, or just follow along — I’m building things that matter to me, and I’d love to share the ride.
-
----
-
 > _“Technical curiosity meets practical experience — learning out loud and building momentum.”_
