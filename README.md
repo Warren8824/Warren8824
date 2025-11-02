@@ -22,9 +22,10 @@ I’m building real-world skills through personal projects, a career in IT suppo
 **Personal Healthcare Data Tool** – Python, Pandas, SQLite  
 > A project to organise and process my own glucose monitoring data.
 
-- Built to parse and clean xDrip+ `.sqlite` exports  
+- Built to parse and clean xDrip+ `.sqlite` exports and LibreVeiw `.csv` exports initially
+- Format definitions describe how to parse data from different CGM devices and apps. Each format defines the file structure, table schemas, and column mappings needed to extract glucose readings, insulin doses, and other diabetes data.  
 - CLI tool using core Python, Pandas, and SQLite  
-- Aimed at standardising long-term CGM records for future analysis  
+- Aimed at standardising long-term CGM records for future analysis, fast and offline. 
 - Still early-stage — paused while I focus on infrastructure learning
 
 ![CLI Example](https://github.com/Warren8824/cgm-data-processor/blob/main/docs/assets/cli_screenshot.png)
