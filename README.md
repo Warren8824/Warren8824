@@ -1,87 +1,37 @@
-**Application Support and Access Analyst| Homelab Builder | Python Learner**
+## Hi, I’m Warren
 
-I’m building real-world skills through personal projects, a career in IT support, and an honest curiosity for how things work. Whether it’s automating Active Directory in PowerShell or processing my CGM data with Python, I learn by doing — and by documenting the journey for others like me.
+I’m an Application Support & Access Analyst working in the healthcare sector, with a focus on reliable IT service delivery, identity and access, and core Windows infrastructure fundamentals.
 
----
+This GitHub profile contains small projects and lab work I use to reinforce practical understanding outside of my day-to-day role.
 
-## 🛠️ Current Projects
+### Areas of focus
 
-### [**Riverside Lab**](https://github.com/Warren8824/RiversideHomeLab)  
-**Windows Server 2025 Homelab** – Active Directory, DHCP/DNS, RRAS, GPOs  
-> A fully-documented, multi-site enterprise-style lab built in Hyper-V.
+- IT service desk workflows and structured troubleshooting  
+- Application access, permissions, and identity related issues  
+- Windows infrastructure fundamentals (Active Directory, networking basics)  
+- Learning through hands on lab work and documentation
 
-- Simulates a real org with 4 branch offices and detailed OU/GPO structure  
-- Explores subnetting, routing, group policies, and shared access via file server  
-- Scripts for automation, test user creation, and security groups  
-- Ideal playground to reinforce helpdesk knowledge with practical experience  
-- Designed to grow with my learning — security, onboarding, and monitoring planned
+### Homelab & infrastructure practice
 
-![Lab Graphic](https://github.com/Warren8824/RiversideHomeLab/blob/main/01-infrastructure%2Fimages%2FDC01.png)
+I maintain a personal Windows based homelab to strengthen my understanding of infrastructure concepts that surface in real world support environments.
 
-### [**CGM Data Processor**](https://github.com/Warren8824/cgm-data-processor)  
-**Personal Healthcare Data Tool** – Python, Pandas, SQLite  
-> A project to organise and process my own glucose monitoring data.
+This includes:
+- Windows Server (AD DS, DHCP, DNS, RRAS)
+- Hyper-V virtualisation
+- Multi subnet and multi site simulations
+- Practicing realistic support and fault finding scenarios
 
-- Built to parse and clean xDrip+ `.sqlite` exports and LibreVeiw `.csv` exports initially
-- Format definitions describe how to parse data from different CGM devices and apps. Each format defines the file structure, table schemas, and column mappings needed to extract glucose readings, insulin doses, and other diabetes data.  
-- CLI tool using core Python, Pandas, and SQLite  
-- Aimed at standardising long-term CGM records for future analysis, fast and offline. 
-- Still early-stage — paused while I focus on infrastructure learning
+### Projects
 
-![CLI Example](https://github.com/Warren8824/cgm-data-processor/blob/main/docs/assets/cli_screenshot.png)
+**Riverside Home Lab**  
+A Windows Server based homelab used to practice Active Directory, networking, and support oriented infrastructure scenarios in a simulated multi site environment.
 
----
+**CGM data exploration (early stage)**  
+Early work exploring CGM data structures and formats to better understand data quality, cleaning challenges, and potential digital health use cases.  
+Currently paused while I focus on infrastructure and support fundamentals.
 
-## 🧠 Learning & Development
+### Background & approach
 
-I’m currently growing in these areas:
+Alongside my professional role, I bring long term personal insight into healthcare technology through lived experience with Type 1 Diabetes, which has shaped an interest in digital health systems and data reliability.
 
-| Tool / Tech         | Status                  |
-|---------------------|--------------------------|
-| **Windows Server**  | Actively Practicing      |
-| **PowerShell**      | Writing Real Scripts     |
-| **Active Directory**| Building and Managing    |
-| **Networking**      | Hands-on in Homelab      |
-| **Python**          | Learning, Paused Project |
-| **Pandas & SQLite** | Used in CGM Tool         |
-| **Git & GitHub**    | Daily Use                |
-| **MkDocs**          | Docs for CGM Project     |
-
----
-
-## 🚀 Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Warren8824&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warren8824&layout=compact)
-
----
-
-## 🏷️ Skill Badges
-
-![Git](https://img.shields.io/badge/Git-Active-orange)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-Practicing-blue)
-
-![SQLite](https://img.shields.io/badge/SQLite-Used_in_Project-lightblue)
-
-![Python](https://img.shields.io/badge/Python-Learning_&_Using-lightblue)
-
-![Windows_Server](https://img.shields.io/badge/Windows_Server-2025_Lab-green)
-
-![MkDocs](https://img.shields.io/badge/MkDocs-Used_for_Documentation-blue)
-
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Occasional_Use-orange)
-
----
-
-## 🌍 About Me
-
-- Currently working as an **Application and Access Support Analyst** at a healthcare organisation  
-- Building a strong foundation in infrastructure and systems administration  
-- Self-taught and driven by curiosity and consistency  
-- Type 1 Diabetic — 19+ years of managing complications and understanding of CGM systems  
-- Exploring how to turn real-world experience into meaningful software solutions
-
----
-
-> _“Technical curiosity meets practical experience — learning out loud and building momentum.”_
+I value clear documentation, calm problem-solving, and steady skill progression over novelty or hype.
